@@ -1,0 +1,89 @@
+#nav {
+	width: 101.2%;
+	height: 55px;
+	margin: auto;
+	position: relative;
+	top: -10.5px;
+	left: -8px;
+	color: white;
+	background-color: lightslategrey;
+}
+
+#nav-img {
+	width: 70px;
+	height: 90px;
+	position: relative;
+	left: 150px;
+	background-color: orange;
+	box-shadow: 0px 3px 10px darkgray;
+}
+
+#icon {
+	display: block;
+	margin: auto;
+	position: relative;
+	top: 13px;
+}
+
+#navbt {
+	position: absolute;
+	top: 0px;
+	left: 369px;
+}
+
+.bt {
+	width: 150px;
+	height: 55px;
+	background-color: lightslategray;
+	float: left;
+	border-right: 1px solid orange;
+	border-left: 1px solid orange;
+	font-size: 18px;
+	font-family: "微软雅黑";
+	color: orange;
+	transition: 0.2s;
+}
+
+.bt:hover {
+	background-color: orange;
+	color: white;
+	box-shadow: 0px 2px 10px #778899;
+}
+
+#ss {
+	width: 270px;
+	height: 30px;
+	position: absolute;
+	top: 12.5px;
+	left: 1000px;
+	font-style: italic;
+}
+
+#ssic {
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	top: 17.5px;
+	left: 1245px;
+}
+
+.bg {
+	width: 101.2%;
+	height: auto;
+	position: relative;
+	left: -8px;
+	top: 35px;
+	overflow: hidden;
+}
+
+#name {
+	font-family: "微软雅黑";
+	position: absolute;
+	top: 50px;
+	left: 1200px;
+}
+
+.introduction {
+	width: 30px;
+	height: 30px;
+}
