@@ -1,0 +1,89 @@
+#nav {
+	width: 101.1%;
+	height: auto;
+	background-color: #C5C9CE;
+	position: relative;
+	top: -20px;
+	left: -7px;
+	overflow: hidden;
+	display: block;
+}
+
+.nava {
+	font-family: "微软雅黑";
+	font-size: 20px;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 10px 40px;
+	margin: 25px;
+	border: 3px solid #AE5C40;
+	color: #AE5C40;
+	border-radius: 50px;
+	position: relative;
+	top: 55px;
+	left: 400px;
+	transition: 0.2s;
+}
+
+.nava:hover {
+	background-color: #AE5C40;
+	color: white;
+	box-shadow: 0px 5px 10px #535158;
+}
+
+#navimg {
+	width: 90px;
+	height: 90px;
+	position: relative;
+	left: 100px;
+}
+
+.content {
+	position: relative;
+	width: 101.2%;
+	overflow: hidden;
+	top: -19.7px;
+	left: -7.7px;
+}
+
+#content1 {
+	width: 700px;
+	border-radius: 20px;
+	padding: 20px;
+	position: relative;
+	margin: auto;
+	color: crimson;
+	top: -534px;
+	font-family: "微软雅黑";
+	font-size: 20px;
+	transition: 0.5s;
+}
+
+#content1:hover {
+	background-color: #C1C1C1;
+	color: #AE5C40;
+}
+
+.content-img {
+	width: 40px;
+	height: 30px;
+	position: relative;
+	left: 330px;
+}
+
+#git {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	top: 950px;
+	left: 625px;
+	transition: 0.3s;
+}
+
+#git:hover {
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	top: 925px;
+	left: 600px;
+}
